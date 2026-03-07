@@ -40,6 +40,17 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.author__employer-wrap {
+  white-space: normal !important;
+  font-size: 0.875em;
+  line-height: 1.4;
+}
+
+.sidebar .author__bio {
+  font-size: 0.9em;
+  line-height: 1.45;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
