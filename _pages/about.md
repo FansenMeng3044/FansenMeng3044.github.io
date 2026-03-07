@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am **Fansen Meng**, an undergraduate student in **Data Science and Big Data Technology** at **South China University of Technology (SCUT)**.
+Hi, I am **Fansen Meng**, a **third-year** undergraduate student in **Data Science and Big Data Technology** at **South China University of Technology (SCUT)**.
 My research interests include **3D Visual Grounding**, **Neural Combinatorial Optimization**, **Multi-Robot Task Allocation**, and **Post-training Compression for Vision-Language Models**.
 
 I am currently also working as a **Research Assistant** at **Tsinghua Shenzhen International Graduate School (THU SIGS)**.
@@ -35,12 +35,14 @@ Advisor: **Assoc. Prof. Huaidong Zhang**, SCUT
 - Designed relation-based alignment and anchor-guided regression modules.
 - Achieved strong generalization on NR3D/SR3D benchmarks.
 
-### RL-based Neural Combinatorial Optimization for Multi-Robot Task Allocation
+### Calibration for VLMs: Impact Analysis and a Data Generation Approach
 **First Author**, ongoing  
-Advisor: **Assoc. Prof. Yahui Jia**, SCUT
+Research Assistant at **THU SIGS**
 
-- Proposed a deep RL policy with a heterogeneous-attention encoder and robot-selection module.
-- Trained end-to-end with REINFORCE for multi-robot task allocation and scheduling.
+- Studying calibration-set selection for post-training compression of VLMs.
+- Comparing pretraining and downstream data under quantization/pruning settings.
+- Exploring a data-generation approach for better compression-performance trade-off.
+
 
 ### HairFlow: Hair Reconstruction with Continuous Orientation Fields
 **Fifth Author**, Submitted to ECCV 2026  
@@ -55,13 +57,13 @@ Advisor: **Assoc. Prof. Yahui Jia**, SCUT
 - Developed an HRF dual-GNN framework for MDVRP/MDOVRP.
 - Achieved strong solution quality and generalization against exact solvers, metaheuristics, and prior NCO methods.
 
-### Calibration for VLMs: Impact Analysis and a Data Generation Approach
+### RL-based Neural Combinatorial Optimization for Multi-Robot Task Allocation
 **First Author**, ongoing  
-Research Assistant at **THU SIGS**
+Advisor: **Assoc. Prof. Yahui Jia**, SCUT
 
-- Studying calibration-set selection for post-training compression of VLMs.
-- Comparing pretraining and downstream data under quantization/pruning settings.
-- Exploring a data-generation approach for better compression-performance trade-off.
+- Proposed a deep RL policy with a heterogeneous-attention encoder and robot-selection module.
+- Trained end-to-end with REINFORCE for multi-robot task allocation and scheduling.
+
 
 # Education
 
