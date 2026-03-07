@@ -23,12 +23,7 @@ I am currently also working as a **Research Assistant** at **Tsinghua Shenzhen I
 
 # Research Interests
 
-- 3D Visual Grounding
-- Vision-Language Models
-- Model Compression and Calibration
-- Neural Combinatorial Optimization
-- Multi-Robot Task Allocation
-- Vehicle Routing Problems
+- 3D Visual Grounding、Vision-Language Models、Model Compression and Calibration
 
 # Publications / Projects
 
