@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I am **Fansen Meng**, a **third-year** undergraduate student in **Data Science and Big Data Technology** at **South China University of Technology (SCUT)**.
-My research interests include **3D Visual Grounding**, **Neural Combinatorial Optimization**, **Multi-Robot Task Allocation**, and **Post-training Compression for Vision-Language Models**.
+My research interests include **3D Visual Grounding** and **Post-training Compression for Vision-Language Models**.
 
 I am currently also working as a **Research Assistant** at **Tsinghua Shenzhen International Graduate School (THU SIGS)**.
 
@@ -17,8 +17,8 @@ I am currently also working as a **Research Assistant** at **Tsinghua Shenzhen I
 
 - **2026.01–Present**: Joined **THU SIGS** as a Research Assistant.
 - **2025.11**: Co-first-authored work **ORD: Object-Relation Decoupling for Generalized 3D Visual Grounding** accepted by **CVPR 2026**.
-- **2025.09**: Started research on **RL-based Neural Combinatorial Optimization for Multi-Robot Task Allocation** as first author.
 - **2025.11**: Contributed to **HairFlow: Hair Reconstruction with Continuous Orientation Fields**, submitted to **ECCV 2026**.
+- **2025.09**: Started research on **RL-based Neural Combinatorial Optimization for Multi-Robot Task Allocation** as first author.
 - **2025.01**: Co-authored **HRF: Hyper-Relation Fusion for Solving Multi-Depot Vehicle Routing Problems**, accepted as **IJCNN 2025 Oral**.
 
 # Research Interests
